@@ -20,7 +20,7 @@ int main(void)
 
 
 {
-	
+
 	int n;
 
 	strand(time)(0));
